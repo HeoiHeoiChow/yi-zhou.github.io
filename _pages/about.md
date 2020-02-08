@@ -16,29 +16,39 @@ Education
 ======
 
 Tongji University
-------
+
 Bachelor of Engineering 2017-2021
+
 GPA: 88/100
+
 Ranking: 7/40
 
 English Scores
 ======
+
 TOEFL: 106 (R: 24, L: 30, S: 22, W: 28)
+
 GRE: 325 + 4
 
 Publications
 ======
 Yi Zhou, Advisor, "Not published yet, sad. "
+
 Yi Zhou, Advisor, "Not published yet, sad. "
+
 Yi Zhou, Advisor, "Not published yet, sad. "
 
 Awards
 ======
 MCM
+
 Design
+
 VEX
+
 Computer
 
 Other Projets
 ======
+
 Tiny things
