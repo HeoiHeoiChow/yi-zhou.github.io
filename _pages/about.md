@@ -19,16 +19,16 @@ Tongji University
 
 Bachelor of Engineering 2017-2021
 
-GPA: 88/100
+GPA: 89/100
 
-Ranking: 7/40
+Ranking: ?/40
 
 English Scores
 ======
 
 TOEFL: 106 (R: 24, L: 30, S: 22, W: 28)
 
-GRE: 325 + 4
+GRE: 325 + 4 (hope so)
 
 Publications
 ======
