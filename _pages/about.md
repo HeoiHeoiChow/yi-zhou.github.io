@@ -29,21 +29,21 @@ Ranking: ?/40
 3. Yi Zhou, Advisor, "Not published yet, sad. "  
 
 # Awards
-**Math modeling** 
+**Math modeling**  
 1. Mathematical Contest In Modeling (MCM)  
 &emsp;2020： 
 2. China Undergraduate Mathematical Contest in Modeling (CUMCM)  
 &emsp;2019： Second prize in Shanghai Division
 
-**Electronics Design** 
+**Electronics Design**  
 1. National Undergraduate Electronics Design Contest  
 &emsp;2019： Third prize in Shanghai Division
 
-**VEX Robotics Competition** 
-1. 2018-2019 World Championships <u>Top 16 (out of 1600 teams)</u>
-2. 2018-2019 Asian Championships 
-&emsp;2018： Exellent Award (Top Prize)  
-3. 2018-2019 China Open First Prize
+**VEX Robotics Competition**  
+I worked as the nuclear programmer in the team and builded numerous API in controlling the robotics.
+1. 2018-2019 World Championships: Top 16 (out of 1600 teams)
+2. 2018-2019 Asian Championships: Exellent Award (Top Prize)  
+3. 2018-2019 China Open: First Prize
 
 # Other Projets
 Tiny things
