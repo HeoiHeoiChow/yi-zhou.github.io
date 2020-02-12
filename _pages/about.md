@@ -12,23 +12,18 @@ I am currently pursuing B.S degree in the Department of Electronic Science & Tec
 
 My research interet falls on Computational Electromagnetic, Antenna, Microwave Engineering and RF Circuits.
 
-Education
-======
+# Education
+**Tongji University**  
+Bachelor of Engineering (2017-2021)  
+GPA: 89/100  
+Ranking: ?/40  
 
-Tongji University
+# English Scores  
+**TOEFL**  
+106 (R: 24, L: 30, S: 22, W: 28)  
 
-Bachelor of Engineering 2017-2021
-
-GPA: 89/100
-
-Ranking: ?/40
-
-English Scores
-======
-
-TOEFL: 106 (R: 24, L: 30, S: 22, W: 28)
-
-GRE: 325 + 4 (hope so)
+**GRE**  
+325 + 4 (hope so)
 
 Publications
 ======
