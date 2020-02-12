@@ -14,16 +14,15 @@ My research interet falls on Computational Electromagnetic, Antenna, Microwave E
 
 # Education
 **Tongji University**  
-Bachelor of Engineering (2017-2021)  
-GPA: 89/100  
-Ranking: ?/40  
+&emsp;Bachelor of Engineering (2017-2021)  
+&emsp;GPA: 89/100  
+&emsp;Ranking: ?/40  
 
 # English Scores  
 **TOEFL**  
-106 (R: 24, L: 30, S: 22, W: 28)  
-
+&emsp;106 (R: 24, L: 30, S: 22, W: 28)  
 **GRE**  
-325 + 4 (hope so)
+&emsp;325 + 4 (hope so)
 
 Publications
 ======
