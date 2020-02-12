@@ -36,11 +36,11 @@ Ranking: ?/40
 &emsp;2019： Second prize in Shanghai Division
 
 **Electronics Design**  
-1. National Undergraduate Electronics Design Contest  
-&emsp;2019： Third prize in Shanghai Division
+I worked as the main programmer and circuit buider. My team made a simple electromagnetic gun out of basic electronic elements from the step of winding the coil. It realized the funtion of hitting arbitrary targets by giving the distance and the angle, and was able to track a moving target with a certain color by opencv.  
+1. 2019 National Undergraduate Electronics Design Contest: Third prize in Shanghai Division
 
 **VEX Robotics Competition**  
-I worked as the nuclear programmer in the team and builded numerous API in controlling the robotics.
+I worked as the nuclear programmer in the team and builded numerous APIs in controlling the robotics. My programs made our robotics precise in going straight, turning and lifting arms to a certain angle. And our team preformed extremely well in the autonomous section due to my APIs.  
 1. 2018-2019 World Championships: Top 16 (out of 1600 teams)
 2. 2018-2019 Asian Championships: Exellent Award (Top Prize)  
 3. 2018-2019 China Open: First Prize
