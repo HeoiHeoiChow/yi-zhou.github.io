@@ -24,20 +24,18 @@ Ranking: ?/40
 **GRE**: 325 + 4  
 
 # Publications
-Yi Zhou, Advisor, "Not published yet, sad. "
-
-Yi Zhou, Advisor, "Not published yet, sad. "
-
-Yi Zhou, Advisor, "Not published yet, sad. "
+1. Yi Zhou, Advisor, "Not published yet, sad. "  
+2. Yi Zhou, Advisor, "Not published yet, sad. "  
+3. Yi Zhou, Advisor, "Not published yet, sad. "  
 
 # Awards
-MCM
+## MCM
 
-Design
+## Design
 
-VEX
+## VEX
 
-Computer
+## Computer
 
 # Other Projets
 Tiny things
