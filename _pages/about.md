@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing B.S degree in the Department of Electronic Science & Techonology, Tongji University in Shanghai, China.
+I am currently pursuing B.S degree in the Department of Electronic Science & Techonology, Tongji University in Shanghai, China. And I am eagerly looking for a Ph.D position in 2021 fall.
 
 My research interet falls on Computational Electromagnetic, Antenna, Microwave Engineering and RF Circuits.
 
