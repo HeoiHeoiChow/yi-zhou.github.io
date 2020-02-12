@@ -32,17 +32,22 @@ Ranking: ?/40
 **Mathematical Contest In Modeling**  
 I worked as the team leader and participated in various works like programing, plotting figures, buiding models and writing the paper.  
 1. 2020 Mathematical Contest In Modeling (MCM):   
-2. 2019 China Undergraduate Mathematical Contest in Modeling (CUMCM): Second prize in Shanghai Division
+2. 2019 China Undergraduate Mathematical Contest in Modeling (CUMCM):  
+&emsp;&emsp;Second prize in Shanghai Division
 
 **Electronics Design Contest**  
-I was the main programmer and circuit buider. My team made a simple electromagnetic gun out of basic electronic elements in 3 days. It was capable of hitting and tracking arbitrary targets by giving the distance and the angle.  
-1. 2019 National Undergraduate Electronics Design Contest: Third prize in Shanghai Division
+I was the main programmer and circuit buider. My team made a simple electromagnetic gun capable of hitting and tracking out of basic electronic elements in 3 days.  
+1. 2019 National Undergraduate Electronics Design Contest:  
+&emsp;&emsp;Third prize in Shanghai Division
 
 **VEX Robotics Competition**  
-I worked as the nuclear programmer in the lab and builded numerous APIs which improved the accuracy in controlling the robotics to a great extent. And our team performed extremely well in the autonomous section due to my APIs.  
-1. 2018-2019 World Championships: Top 16 (out of 1600 teams)
-2. 2018-2019 Asian Championships: Exellent Award (Top Prize)  
-3. 2018-2019 China Open: First Prize
+As the nuclear programmer in the lab, I builded numerous APIs which improved the accuracy in controlling the robotics to a great extent.  
+1. 2018-2019 World Championships:  
+&emsp;&emsp;Top 16 (out of 1600 teams)
+2. 2018-2019 Asian Championships:  
+&emsp;&emsp;Exellent Award (Top Prize)  
+3. 2018-2019 China Open:  
+&emsp;&emsp;First Prize
 
 # Other Projets
 Tiny things
