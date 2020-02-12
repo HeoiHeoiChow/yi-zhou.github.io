@@ -30,6 +30,7 @@ Ranking: ?/40
 
 # Awards
 **Math modeling**  
+I worked as the team leader and participated in various works like programing, plotting figures, buiding models and writing the paper.  
 1. Mathematical Contest In Modeling (MCM)  
 &emsp;2020： 
 2. China Undergraduate Mathematical Contest in Modeling (CUMCM)  
@@ -40,7 +41,7 @@ I worked as the main programmer and circuit buider. My team made a simple electr
 1. 2019 National Undergraduate Electronics Design Contest: Third prize in Shanghai Division
 
 **VEX Robotics Competition**  
-I worked as the nuclear programmer in the team and builded numerous APIs in controlling the robotics. My programs made our robotics precise in going straight, turning and lifting arms to a certain angle. And our team preformed extremely well in the autonomous section due to my APIs.  
+I worked as the nuclear programmer in the team and builded numerous APIs in controlling the robotics. My programs made our robotics precise in going straight, turning and lifting arms to a certain angle. And our team performed extremely well in the autonomous section due to my APIs.  
 1. 2018-2019 World Championships: Top 16 (out of 1600 teams)
 2. 2018-2019 Asian Championships: Exellent Award (Top Prize)  
 3. 2018-2019 China Open: First Prize
