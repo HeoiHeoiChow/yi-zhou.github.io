@@ -13,9 +13,9 @@ And I am now eagerly looking for a Ph.D position in 2021 fall.
 
 My research interet falls on Computational Electromagnetic, Antenna, Microwave Engineering and RF Circuits.
 
-# Education
-**Tongji University**  
-Bachelor of Engineering (2017-2021)  
+# Education&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;English Scores
+**Tongji University**  &emsp;&emsp;&emsp;&emsp;**TOEFL**: 106 (R: 24, L: 30, S: 22, W: 28)  
+Bachelor of Engineering (2017-2021)  &emsp;&emsp;**GRE**: 325 + 4  
 GPA: 89/100  
 Ranking: ?/40  
 
