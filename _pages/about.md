@@ -29,13 +29,13 @@ Ranking: ?/40
 3. Yi Zhou, Advisor, "Not published yet, sad. "  
 
 # Awards
-## MCM
+**MCM** 
 
-## Design
+**Design** 
 
-## VEX
+**VEX** 
 
-## Computer
+**Computer** 
 
 # Other Projets
 Tiny things
