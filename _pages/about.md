@@ -36,7 +36,7 @@ I worked as the team leader and participated in various works like programing, p
 &emsp;&emsp;Second prize in Shanghai Division
 
 **Electronics Design Contest**  
-I was the main programmer and circuit buider. My team made a simple electromagnetic gun capable of hitting and tracking out of basic electronic elements in 3 days.  
+I was the main programmer and circuit buider. My team made a simple electromagnetic gun capable of hitting and tracking targets out of basic electronic elements in 3 days.  
 1. 2019 National Undergraduate Electronics Design Contest:  
 &emsp;&emsp;Third prize in Shanghai Division
 
