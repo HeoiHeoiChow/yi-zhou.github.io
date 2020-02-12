@@ -29,15 +29,13 @@ Ranking: ?/40
 3. Yi Zhou, Advisor, "Not published yet, sad. "  
 
 # Awards
-**Math modeling**  
+**Mathematical Contest In Modeling**  
 I worked as the team leader and participated in various works like programing, plotting figures, buiding models and writing the paper.  
-1. Mathematical Contest In Modeling (MCM)  
-&emsp;2020： 
-2. China Undergraduate Mathematical Contest in Modeling (CUMCM)  
-&emsp;2019： Second prize in Shanghai Division
+1. 2020 Mathematical Contest In Modeling (MCM):   
+2. 2019 China Undergraduate Mathematical Contest in Modeling (CUMCM): Second prize in Shanghai Division
 
-**Electronics Design**  
-I worked as the main programmer and circuit buider. My team made a simple electromagnetic gun out of basic electronic elements from the step of winding the coil. It realized the funtion of hitting arbitrary targets by giving the distance and the angle, and was able to track a moving target with a certain color by opencv.  
+**Electronics Design Contest**  
+I was the main programmer and circuit buider. My team made a simple electromagnetic gun out of basic electronic elements in 3 days. It was capable of hitting and tracking arbitrary targets by giving the distance and the angle.  
 1. 2019 National Undergraduate Electronics Design Contest: Third prize in Shanghai Division
 
 **VEX Robotics Competition**  
