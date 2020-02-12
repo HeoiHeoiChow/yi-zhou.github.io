@@ -14,26 +14,24 @@ My research interet falls on Computational Electromagnetic, Antenna, Microwave E
 
 # Education
 **Tongji University**  
-&emsp;Bachelor of Engineering (2017-2021)  
-&emsp;GPA: 89/100  
-&emsp;Ranking: ?/40  
+Bachelor of Engineering (2017-2021)  
+GPA: 89/100  
+Ranking: ?/40  
 
 # English Scores  
 **TOEFL**  
-&emsp;106 (R: 24, L: 30, S: 22, W: 28)  
+106 (R: 24, L: 30, S: 22, W: 28)  
 **GRE**  
-&emsp;325 + 4 (hope so)
+325 + 4 (hope so)
 
-Publications
-======
+# Publications
 Yi Zhou, Advisor, "Not published yet, sad. "
 
 Yi Zhou, Advisor, "Not published yet, sad. "
 
 Yi Zhou, Advisor, "Not published yet, sad. "
 
-Awards
-======
+# Awards
 MCM
 
 Design
@@ -42,7 +40,5 @@ VEX
 
 Computer
 
-Other Projets
-======
-
+# Other Projets
 Tiny things
