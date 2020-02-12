@@ -36,16 +36,14 @@ Ranking: ?/40
 &emsp;2019： Second prize in Shanghai Division
 
 **Electronics Design** 
-1. National Undergraduate Electronics Design Contest
+1. National Undergraduate Electronics Design Contest  
 &emsp;2019： Third prize in Shanghai Division
 
 **VEX Robotics Competition** 
-1. World Championships
-&emsp;2019： Top 16 (out of 1600 teams)
-2. Asian Championships 
+1. 2018-2019 World Championships <u>Top 16 (out of 1600 teams)</u>
+2. 2018-2019 Asian Championships 
 &emsp;2018： Exellent Award (Top Prize)  
-3. China Open
-&emsp;2019： First Prize
+3. 2018-2019 China Open First Prize
 
 # Other Projets
 Tiny things
