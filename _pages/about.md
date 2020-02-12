@@ -19,10 +19,6 @@ Bachelor of Engineering (2017-2021)     &emsp;&ensp;&emsp;&emsp;&emsp;&ensp;**GR
 GPA: 89/100  
 Ranking: ?/40  
 
-# English Scores  
-**TOEFL**: 106 (R: 24, L: 30, S: 22, W: 28)  
-**GRE**: 325 + 4  
-
 # Publications
 1. Yi Zhou, Advisor, "Not published yet, sad. "  
 2. Yi Zhou, Advisor, "Not published yet, sad. "  
