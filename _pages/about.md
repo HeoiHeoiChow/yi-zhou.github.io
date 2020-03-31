@@ -45,7 +45,7 @@ As the nuclear programmer in the lab, I built numerous APIs which improved the a
 &emsp;&emsp;First Prize
 
 # Other Projects
-**2020 College Students' Innovative Training Program:   
+**2020 Shanghai College Students' Innovative Training Program:   
 "Library Seats Management System based on Case Segmentation"**  
 I was the team leader and the main coder throughout the program. 
 
