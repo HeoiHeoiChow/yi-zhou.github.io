@@ -19,7 +19,7 @@ Bachelor of Engineering (2017-2021)     &emsp;&ensp;&emsp;&emsp;&emsp;&ensp;**GR
 GPA: 89/100   
 
 # Publications
-1. Yi Zhou, Mei Song Tong, "A Frequency-Reconfigurable Coaxial Liquid Metal YAGI-UDA Antenna with Arbitrary Directivity" 
+1. Yi Zhou, Mei Song Tong, "A Frequency-Reconfigurable Coaxial Liquid Metal Yagi-Uda Antenna with Arbitrary Directivity" 
 2. Yi Zhou, Advisor, "Not published yet, sad. "  
 3. Yi Zhou, Advisor, "Not published yet, sad. "  
 
