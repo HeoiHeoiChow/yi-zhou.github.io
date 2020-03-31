@@ -20,7 +20,7 @@ GPA: 89/100
 Ranking: ?/40  
 
 # Publications
-1. Yi Zhou, Mei Song Tong, "A FREQUENCY-RECONFIGURABLE COAXIAL LIQUID METAL YAGI-UDA ANTENNA WITH ARBITRARY DIRECTIVITY" 
+1. Yi Zhou, Mei Song Tong, "A Frequency-Reconfigurable Coaxial Liquid Metal YAGI-UDA Antenna with Arbitrary Directivity" 
 2. Yi Zhou, Advisor, "Not published yet, sad. "  
 3. Yi Zhou, Advisor, "Not published yet, sad. "  
 
@@ -46,8 +46,8 @@ As the nuclear programmer in the lab, I built numerous APIs which improved the a
 &emsp;&emsp;First Prize
 
 # Other Projets
-**2020 College Students' Innovative Training Program: **
-**"Library seats management system based on strength segmentation"**
+**2020 College Students' Innovative Training Program: **  
+**"Library seats management system based on strength segmentation"**  
 I was the team leader and the main coder throughout the program. 
 
 We used Mask-RCNN algorithm to solve the seat finding problem during college libraries' peak seasons. By analyzing the pictures captured by the cameras pre-installed in the libraries, the number and the positons of available seats can be presented to students automatically through a mobile phone app.
