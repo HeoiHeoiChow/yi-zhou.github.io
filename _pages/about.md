@@ -44,7 +44,7 @@ As the nuclear programmer in the lab, I built numerous APIs which improved the a
 3. 2018-2019 China Open:  
 &emsp;&emsp;First Prize
 
-# Other Projets
+# Other Projects
 **2020 College Students' Innovative Training Program:   
 "Library Seats Management System based on Case Segmentation"**  
 I was the team leader and the main coder throughout the program. 
