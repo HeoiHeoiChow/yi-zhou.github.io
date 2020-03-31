@@ -46,4 +46,6 @@ As the nuclear programmer in the lab, I built numerous APIs which improved the a
 &emsp;&emsp;First Prize
 
 # Other Projets
-Tiny things
+**2020 College Students' Innovative Training Program**
+1. "Library seat management system based on strength segmentation"
+&emsp;&emsp;I was the leader and the coder in the program. We used Mask-RCNN algorithm to solve the seat finding problem during college libraries' peak seasons. By analyzing the pictures captured by the cameras pre-installed in the libraries, students can get the number and the positon of available seats through a mobile phone app.
