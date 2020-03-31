@@ -36,7 +36,8 @@ I was the main programmer and the circuit builder. My team made a simple electro
 &emsp;&emsp;Third prize in Shanghai Division
 
 **VEX Robotics Competition**  
-As the nuclear programmer in the lab, I built numerous APIs which improved the accuracy in controlling the robotics to a great extent.  
+As the nuclear programmer in the lab, I built numerous APIs which improved the accuracy in controlling the robotics to a great extent. I was also one of the leaders of our lab.
+
 1. 2018-2019 World Championships:  
 &emsp;&emsp;Top 16 (out of 1600 teams)
 2. 2018-2019 Asian Championships:  
@@ -48,4 +49,4 @@ As the nuclear programmer in the lab, I built numerous APIs which improved the a
 **2019 Shanghai College Students' Innovative Training Program:**   
 **"Library Seats Management System based on Case Segmentation"**  
 I was the team leader and the main coder throughout the program.  
-We used Mask-RCNN algorithm to solve the seat finding problem during college libraries' peak seasons. By analyzing the pictures captured by the cameras pre-installed in the libraries, the number and the positons of available seats can be presented to students automatically through a mobile phone app.
+We used Mask-RCNN algorithm to solve the seat finding problem during college libraries' peak seasons. By analyzing the pictures captured by the cameras pre-installed in the libraries, the number and the positons of available seats can be presented to students automatically through a mobile phone application.
