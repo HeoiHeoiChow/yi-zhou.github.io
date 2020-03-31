@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently pursuing B.S degree in the Department of Electronic Science & Techonology, Tongji University in Shanghai, China.  
-And I am now eagerly looking for a **Ph.D position in 2021 fall**.
+And I am now eagerly **looking for a Ph.D position in 2021 fall**.
 
 My research interet falls on CEM, Antenna, Microwave Engineering and RF Circuits.
 
