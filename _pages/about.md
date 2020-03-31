@@ -46,6 +46,7 @@ As the nuclear programmer in the lab, I built numerous APIs which improved the a
 
 # Other Projets
 **2020 College Students' Innovative Training Program: **  
+
 **"Library seats management system based on strength segmentation"**  
 I was the team leader and the main coder throughout the program. 
 
