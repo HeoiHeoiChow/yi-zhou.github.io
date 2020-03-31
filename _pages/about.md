@@ -20,8 +20,7 @@ GPA: 89/100
 
 # Publications
 1. **Yi Zhou**, Mei Song Tong, 'A Frequency-Reconfigurable Coaxial Liquid Metal Yagi-Uda Antenna with Arbitrary Directivity'
-2. Ge Zhao, Qing Xu, **Yi Zhou**, Mei Song Tong, 'A Mageto-Electric Dipole Antenna Linear Array with High Gain and Wide Bandwidth'  
-3. Yi Zhou, Advisor, "Not published yet, sad. "  
+2. Ge Zhao, Qing Xu, **Yi Zhou**, Mei Song Tong, 'A Magneto-Electric Dipole Antenna Linear Array with High Gain and Wide Bandwidth'  
 
 # Competitions
 **Mathematical Contest In Modeling**  
