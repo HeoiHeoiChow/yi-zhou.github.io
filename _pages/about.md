@@ -11,7 +11,7 @@ redirect_from:
 I am currently pursuing B.S degree in the Department of Electronic Science & Techonology, Tongji University in Shanghai, China.  
 And I am now eagerly looking for a Ph.D position in 2021 fall.
 
-My research interet falls on Computational Electromagnetic, Antenna, Microwave Engineering and RF Circuits.
+My research interet falls on CEM, Antenna, Microwave Engineering and RF Circuits.
 
 # Education&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;English Scores
 **Tongji University&ensp;**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**TOEFL**: 106 (R: 24, L: 30, S: 22, W: 28)  
@@ -20,7 +20,7 @@ GPA: 89/100
 Ranking: ?/40  
 
 # Publications
-1. Yi Zhou, Advisor, "Not published yet, sad. "  
+1. Yi Zhou, Mei Song Tong, "A FREQUENCY-RECONFIGURABLE COAXIAL LIQUID METAL YAGI-UDA ANTENNA WITH ARBITRARY DIRECTIVITY" 
 2. Yi Zhou, Advisor, "Not published yet, sad. "  
 3. Yi Zhou, Advisor, "Not published yet, sad. "  
 
