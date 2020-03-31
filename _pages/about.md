@@ -36,7 +36,7 @@ I was the main programmer and the circuit builder. My team made a simple electro
 &emsp;&emsp;Third prize in Shanghai Division
 
 **VEX Robotics Competition**  
-As the nuclear programmer in the lab, I built numerous APIs which improved the accuracy in controlling the robotics to a great extent. I was also one of the leaders of our lab.
+As the nuclear programmer in the lab, I built numerous APIs which improved the accuracy in controlling the robotics to a great extent. And I was also one of the leaders of our lab.
 
 1. 2018-2019 World Championships:  
 &emsp;&emsp;Top 16 (out of 1600 teams)
