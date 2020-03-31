@@ -23,7 +23,7 @@ GPA: 89/100
 2. Yi Zhou, Advisor, "Not published yet, sad. "  
 3. Yi Zhou, Advisor, "Not published yet, sad. "  
 
-# Awards
+# Competitions
 **Mathematical Contest In Modeling**  
 I worked as the team leader and participated in various works like programing, plotting figures, buiding models and writing the paper.  
 1. 2020 Mathematical Contest In Modeling (MCM):   
