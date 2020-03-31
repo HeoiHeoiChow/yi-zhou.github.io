@@ -16,8 +16,7 @@ My research interet falls on CEM, Antenna, Microwave Engineering and RF Circuits
 # Education&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;English Scores
 **Tongji University&ensp;**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**TOEFL**: 106 (R: 24, L: 30, S: 22, W: 28)  
 Bachelor of Engineering (2017-2021)     &emsp;&ensp;&emsp;&emsp;&emsp;&ensp;**GRE**: 325 + 4  
-GPA: 89/100  
-Ranking: ?/40  
+GPA: 89/100   
 
 # Publications
 1. Yi Zhou, Mei Song Tong, "A Frequency-Reconfigurable Coaxial Liquid Metal YAGI-UDA Antenna with Arbitrary Directivity" 
